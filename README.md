@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @N-es42<br>👀 I’m interested in Software<br>🖥️ I’m studying computer science.<br>🌱 I’m currently learning JS and React<br>📫 How to reach me?<br>➡️ from eatalay666@gmail.com
+👋 Hi, I’m @N-es42<br>👀 I’m interested in Software<br>📫 How to reach me?<br>➡️ from eatalay666@gmail.com
 
 
 ## 🌐 Socials:
